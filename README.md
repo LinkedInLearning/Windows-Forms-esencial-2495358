@@ -1,11 +1,13 @@
-# Nombre final del curso
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+# Windows Forms esencial
+
+Este es el repositorio del curso de LinkedIn Learning `Windows Forms esencial`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+Windows Forms te permite desarrollar el interfaz de aplicaciones de escritorio  rápidamente y sin apenas esfuerzo. Explora en este contenido las posibilidades que tienen como tecnología para la creación de aplicaciones empresariales para el sistema operativo Windows, de una forma práctica e implementando el código en una app real. Durante el curso, obtendrás información desde los conceptos más esenciales a los más importantes de esta tecnología para que, al terminar, puedas empezar a usarlo en el desarrollo de aplicaciones y herramientas de negocios.
 
 ## Instrucciones
 Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
@@ -22,9 +24,9 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+Rodrigo Díaz Concha
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
