@@ -7,6 +7,7 @@ Este es el repositorio del curso de LinkedIn Learning `Windows Forms esencial`. 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+
 Windows Forms te permite desarrollar el interfaz de aplicaciones de escritorio  rápidamente y sin apenas esfuerzo. Explora en este contenido las posibilidades que tienen como tecnología para la creación de aplicaciones empresariales para el sistema operativo Windows, de una forma práctica e implementando el código en una app real. Durante el curso, obtendrás información desde los conceptos más esenciales a los más importantes de esta tecnología para que, al terminar, puedas empezar a usarlo en el desarrollo de aplicaciones y herramientas de negocios.
 
 ## Instrucciones
@@ -24,7 +25,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-Rodrigo Díaz Concha
+**Rodrigo Díaz Concha**
 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha).
 
