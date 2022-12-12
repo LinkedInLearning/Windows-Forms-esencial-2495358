@@ -2,11 +2,9 @@
 
 Este es el repositorio del curso de LinkedIn Learning `Windows Forms esencial`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![image](https://user-images.githubusercontent.com/71371373/207073689-edcf536a-11d9-433e-9f4f-c6b58e00c0c9.png)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
-
-DESCRIPCIÓN DEL CURSO
 
 Windows Forms te permite desarrollar el interfaz de aplicaciones de escritorio  rápidamente y sin apenas esfuerzo. Explora en este contenido las posibilidades que tienen como tecnología para la creación de aplicaciones empresariales para el sistema operativo Windows, de una forma práctica e implementando el código en una app real. Durante el curso, obtendrás información desde los conceptos más esenciales a los más importantes de esta tecnología para que, al terminar, puedas empezar a usarlo en el desarrollo de aplicaciones y herramientas de negocios.
 
