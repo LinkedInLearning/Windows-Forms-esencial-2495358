@@ -2,7 +2,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `Windows Forms esencial`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/71371373/207073689-edcf536a-11d9-433e-9f4f-c6b58e00c0c9.png)
+![COURSENAME][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -25,7 +25,4 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/windows-forms-esencial/domina-la-construccion-de-aplicaciones-de-negocio-con-windows-forms
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-
-
-[1]: # (End of ES-Instruction ###############################################################################################)
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQHT3eIrecpW3g/learning-public-crop_675_1200/0/1670851412281?e=2147483647&v=beta&t=7cD6ZB68ygq0xruOyFfT4Dx3DjvMNfziUDgsZ6e6JGo
